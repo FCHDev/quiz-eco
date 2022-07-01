@@ -2,6 +2,11 @@
 
 Ce projet est réalisé dans le cadre du challenge de fin de module 4 (Design Patterns courants) du bootcamp Mike Codeur batch3.
 
+## Objectifs du projet
+
+Proposer un modèle de Quiz adaptable avec une gestion des users et de leur score.
+Pratiquer React et les patterns courants (Props Functions, Proxy components, State Hoisting, etc...)
+
 ## Étapes
 
 1. Créer la structure
